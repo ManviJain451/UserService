@@ -28,7 +28,4 @@ The system uses **AES** (symmetric encryption) for encrypting note content and *
     - Decrypts the note content using AES key.
     - Stores **decrypted (plaintext)** note content in the database.
 
----
-
-## 📂 Project Structure
 
