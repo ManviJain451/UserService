@@ -34,3 +34,9 @@ build/
 
 .env
 note_public.key
+client-app.key
+client-app.pem
+note-service.crt
+user-service.crt
+user-service.p12
+user-service.pem
